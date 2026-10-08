@@ -59,7 +59,7 @@ Creator of **[TachyOne](https://github.com/munod/tachyone)**, a local-first mult
 
 ### 💼 Professional Background
 
-**Computational Support Analyst** with hands-on experience in:
+**Computational Support Analyst** at **ICICT / Fiocruz** with experience in:
 * 🐧 **Linux Administration** & System Optimization
 * 🏗️ **Infrastructure & Networking**
 * ⚙️ **Process Automation & Scripting**
